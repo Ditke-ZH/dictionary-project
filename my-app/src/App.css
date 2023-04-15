@@ -9,6 +9,17 @@
 }
 
 .App-footer {
+  font-size: 20px;
+  padding-top: 40px;
   text-align: center;
   margin: 30px 0;
+}
+.personal-link {
+  color: white;
+}
+a:link {
+  color: white;
+}
+a:hover {
+  color: black;
 }
