@@ -15,6 +15,7 @@ export default function App() {
             <a
               href="https://github.com/Ditke-ZH/dictionary-project"
               target="_blank"
+              rel="noreferrer"
               title="Open-source code"
               id="personal-link"
             >
@@ -24,6 +25,7 @@ export default function App() {
             <a
               href="https://www.linkedin.com/in/edit-guntermann-563357104"
               target="_blank"
+              rel="noreferrer"
               title="Edit Guntermann"
               id="personal-link"
             >
