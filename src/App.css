@@ -1,3 +1,13 @@
+body {
+  background-color: #4158d0;
+  background-image: linear-gradient(
+    0deg,
+    #4158d0 0%,
+    #c850c0 46%,
+    #ffcc70 100%
+  );
+}
+
 .App-header {
   margin: 30px 0;
 }
@@ -14,12 +24,13 @@
   text-align: center;
   margin: 30px 0;
 }
-.personal-link {
-  color: white;
-}
-a:personal-link {
-  color: white;
-}
-a:hover {
+
+#personal-link {
   color: black;
+  text-decoration: none;
+}
+
+#personal-link:hover {
+  color: black;
+  text-decoration: underline;
 }
